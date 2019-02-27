@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "513052474449",
+    "firebase_url": "https://test-react-fb.firebaseio.com",
+    "project_id": "test-react-fb",
+    "storage_bucket": "test-react-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513052474449:android:f432c6c1466a3f7b",
+        "android_client_info": {
+          "package_name": "com.testfirestoreandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513052474449-e6lq7ig554n5cqjj1bmfpb34f38to7u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCooGXYiGBT4XSJerzlE8WV8wGpwFcIE0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
